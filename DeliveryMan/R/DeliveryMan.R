@@ -34,6 +34,7 @@ manualDM=function(roads,car,packages) {
 
 #' Run Delivery Man
 #' 
+#' 
 #' Runs the delivery man game. In this game, deliveries are randomly placed on a city grid. You
 #' must pick up and deliver the deliveries as fast as possible under changing traffic conditions.
 #' Your score is the time it takes for you to complete this task. To play manually pass manualDM
